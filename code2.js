@@ -1,2 +1,2 @@
 let nome = neymar;
-console.log("nome")
+console.log(nome)
